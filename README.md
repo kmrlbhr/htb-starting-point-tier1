@@ -4,7 +4,7 @@
 ![Type](https://img.shields.io/badge/Type-Starting%20Point-blueviolet)
 ![Tier](https://img.shields.io/badge/Tier-1-red)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Boxes](https://img.shields.io/badge/Boxes-2%2F10-orange)
+![Boxes](https://img.shields.io/badge/Boxes-3%2F10-orange)
 
 > My notes, commands and walkthroughs for the HackTheBox **Starting Point — Tier 1** machines.
 > Flags are hidden behind spoiler sections. Try each box yourself first.
@@ -34,13 +34,13 @@
 
 ## ✅ Progress Tracker
 
-**Boxes rooted: 2 / 10**
+**Boxes rooted: 3 / 10**
 
 | # | Machine | OS | Writeup | Status |
 |---|---------|-----|---------|--------|
 | 1 | Appointment | Linux | [writeups/appointment.md](writeups/appointment.md) | ✅ Done |
 | 2 | Sequel | Linux | [writeups/sequel.md](writeups/sequel.md) | ✅ Done |
-| 3 | Crocodile | Linux | — | ⬜ Not started |
+| 3 | Crocodile | Linux | [writeups/crocodile.md](writeups/crocodile.md) | ✅ Done |
 | 4 | Responder | Windows | — | ⬜ Not started |
 | 5 | Three | Linux | — | ⬜ Not started |
 | 6 | Ignition | Linux | — | ⬜ Not started |
@@ -59,6 +59,7 @@ Legend: ⬜ Not started · 🟨 In progress · ✅ Done
 |---------|-----|----------|---------|
 | Appointment | Linux | SQLi auth bypass | [writeups/appointment.md](writeups/appointment.md) |
 | Sequel | Linux | MariaDB root (no password) | [writeups/sequel.md](writeups/sequel.md) |
+| Crocodile | Linux | Anon FTP creds → web login | [writeups/crocodile.md](writeups/crocodile.md) |
 
 ---
 
