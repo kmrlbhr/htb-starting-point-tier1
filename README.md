@@ -4,7 +4,7 @@
 ![Type](https://img.shields.io/badge/Type-Starting%20Point-blueviolet)
 ![Tier](https://img.shields.io/badge/Tier-1-red)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Boxes](https://img.shields.io/badge/Boxes-0%2F10-orange)
+![Boxes](https://img.shields.io/badge/Boxes-1%2F10-orange)
 
 > My notes, commands and walkthroughs for the HackTheBox **Starting Point — Tier 1** machines.
 > Flags are hidden behind spoiler sections. Try each box yourself first.
@@ -34,11 +34,11 @@
 
 ## ✅ Progress Tracker
 
-**Boxes rooted: 0 / 10**
+**Boxes rooted: 1 / 10**
 
 | # | Machine | OS | Writeup | Status |
 |---|---------|-----|---------|--------|
-| 1 | Appointment | Linux | — | ⬜ Not started |
+| 1 | Appointment | Linux | [writeups/appointment.md](writeups/appointment.md) | ✅ Done |
 | 2 | Sequel | Linux | — | ⬜ Not started |
 | 3 | Crocodile | Linux | — | ⬜ Not started |
 | 4 | Responder | Windows | — | ⬜ Not started |
@@ -57,7 +57,7 @@ Legend: ⬜ Not started · 🟨 In progress · ✅ Done
 
 | Machine | OS | Foothold | Writeup |
 |---------|-----|----------|---------|
-| _add as you go_ | | | |
+| Appointment | Linux | SQLi auth bypass | [writeups/appointment.md](writeups/appointment.md) |
 
 ---
 
